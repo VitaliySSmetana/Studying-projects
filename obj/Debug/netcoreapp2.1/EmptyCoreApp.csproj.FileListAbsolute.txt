@@ -1,0 +1,14 @@
+E:\Projects\Studying\EmptyCoreApp\EmptyCoreApp\bin\Debug\netcoreapp2.1\EmptyCoreApp.deps.json
+E:\Projects\Studying\EmptyCoreApp\EmptyCoreApp\bin\Debug\netcoreapp2.1\EmptyCoreApp.runtimeconfig.json
+E:\Projects\Studying\EmptyCoreApp\EmptyCoreApp\bin\Debug\netcoreapp2.1\EmptyCoreApp.runtimeconfig.dev.json
+E:\Projects\Studying\EmptyCoreApp\EmptyCoreApp\bin\Debug\netcoreapp2.1\EmptyCoreApp.dll
+E:\Projects\Studying\EmptyCoreApp\EmptyCoreApp\bin\Debug\netcoreapp2.1\EmptyCoreApp.pdb
+E:\Projects\Studying\EmptyCoreApp\EmptyCoreApp\obj\Debug\netcoreapp2.1\EmptyCoreApp.csprojAssemblyReference.cache
+E:\Projects\Studying\EmptyCoreApp\EmptyCoreApp\obj\Debug\netcoreapp2.1\EmptyCoreApp.csproj.CoreCompileInputs.cache
+E:\Projects\Studying\EmptyCoreApp\EmptyCoreApp\obj\Debug\netcoreapp2.1\EmptyCoreApp.RazorAssemblyInfo.cache
+E:\Projects\Studying\EmptyCoreApp\EmptyCoreApp\obj\Debug\netcoreapp2.1\EmptyCoreApp.RazorAssemblyInfo.cs
+E:\Projects\Studying\EmptyCoreApp\EmptyCoreApp\obj\Debug\netcoreapp2.1\EmptyCoreApp.AssemblyInfoInputs.cache
+E:\Projects\Studying\EmptyCoreApp\EmptyCoreApp\obj\Debug\netcoreapp2.1\EmptyCoreApp.AssemblyInfo.cs
+E:\Projects\Studying\EmptyCoreApp\EmptyCoreApp\obj\Debug\netcoreapp2.1\EmptyCoreApp.RazorTargetAssemblyInfo.cache
+E:\Projects\Studying\EmptyCoreApp\EmptyCoreApp\obj\Debug\netcoreapp2.1\EmptyCoreApp.dll
+E:\Projects\Studying\EmptyCoreApp\EmptyCoreApp\obj\Debug\netcoreapp2.1\EmptyCoreApp.pdb
